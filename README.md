@@ -16,8 +16,9 @@ More info at: https://www.cajamardatalab.com/datathon-cajamar-universityhack-202
 
 ### FICHEROS
 
-Dataset "Modelar_UH2021.txt": Con este fichero deberás construir un modelo predictivo que permita estimar las ventas por producto y día. Datos entre 01/06/2015 y el 30/09/2016.
-Dataset "Estimar_UH2021.txt": El modelo generado lo aplicarás a los datos de este fichero, de modo que calcules, para cada producto y día, el número de artículos vendidos más probable. Datos entre 01/10/2016 y el 31/12/2016.
+**Dataset "Modelar_UH2021.txt"**: Con este fichero deberás construir un modelo predictivo que permita estimar las ventas por producto y día. Datos entre 01/06/2015 y el 30/09/2016.
+
+**Dataset "Estimar_UH2021.txt"**: El modelo generado lo aplicarás a los datos de este fichero, de modo que calcules, para cada producto y día, el número de artículos vendidos más probable. Datos entre 01/10/2016 y el 31/12/2016.
 
 ### VARIABLES
 
