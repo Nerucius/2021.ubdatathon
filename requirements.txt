@@ -1,0 +1,4 @@
+jupyter==1.0.0
+tensorflow-gpu==2.3.0
+keras==2.4.3
+seaborn==0.11.1
