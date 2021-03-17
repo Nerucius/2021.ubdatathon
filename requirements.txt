@@ -3,3 +3,4 @@ tensorflow-gpu==2.3.0
 keras==2.4.3
 seaborn==0.11.1
 scikit-learn==0.24.1
+lightgbm==3.1.1
