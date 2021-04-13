@@ -4,3 +4,5 @@
 
 /data/*.txt
 *.h5
+
+/AutogluonModels
